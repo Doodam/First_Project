@@ -8,12 +8,14 @@
   - [개요](#개요) 
   - [프로그램 설명](#프로그램-설명)
 
+<br>
 
 ## 개요
 - 프로젝트 이름 : ITWILL 학생관리프로그램
 - 프로젝트 지속기간 : 2022.04.17 - 2023.04.24
 - 개발 엔진 및 언어, DB : Eclipse & JAVA & Oracle
 
+<br>
 
 ## 프로그램 설명
 ### 로그인
@@ -25,8 +27,13 @@
 - 로그인 실패 시, 모달 창이 띄워지며 로그인 불가. <br>
 - 로그인 성공 시, 모달 창이 띄워지며 홈으로 창 전환. <br>
 
+<br>
+
 ### 홈 화면
-<img src=https://github.com/Doodam/First_Project/assets/121950964/4f325335-b34f-4add-a301-e15b1bbbd8ff width="400" height="350"/>
+<img src=https://github.com/Doodam/First_Project/assets/121950964/4f325335-b34f-4add-a301-e15b1bbbd8ff width="400" height="350"/> <br>
+- 홈페이지 홈 화면입니다.
+
+<br>
 
 ### 학생 등록
 |<img src=https://github.com/Doodam/First_Project/assets/121950964/9369b98e-5c4a-4fef-bafc-d2e3fff1147b>|<img src=https://github.com/Doodam/First_Project/assets/121950964/d227dd54-c69d-4679-8e15-ab990e310eda>|<img src=https://github.com/Doodam/First_Project/assets/121950964/3c75bff7-f2a1-4472-b054-1792d2dd5a05>|<img src=https://github.com/Doodam/First_Project/assets/121950964/c2ab2472-ba6e-462e-9efd-e133c0b36d3b>
@@ -38,9 +45,13 @@
 - 등록 버튼을 클릭 하면 DB에 저장이 되고 홈으로 이동합니다.  
 - 홈 화면에 등록된 학생 정보가 바로 확인 가능합니다.
 
+<br>
+
 ### 상세보기
-<img src=https://github.com/Doodam/First_Project/assets/121950964/0d533a7a-4fda-4e07-ba7e-4df50cfcd6d7 width="400" height="350"/><br>
+<img src=https://github.com/Doodam/First_Project/assets/121950964/0d533a7a-4fda-4e07-ba7e-4df50cfcd6d7 width="400" height="350"/> <br>
 - 학생 정보를 보고 싶을 때 상세보기 버튼 클릭 시, 확인 가능합니다.
+
+<br>
 
 ### 수정하기
 |<img src=https://github.com/Doodam/First_Project/assets/121950964/b3f52976-bc21-4b61-9db1-f20744eea2b9>|<img src=https://github.com/Doodam/First_Project/assets/121950964/4113fc57-8c8d-4513-8eb3-e3252714cf2d>|<img src=https://github.com/Doodam/First_Project/assets/121950964/064c1fd3-914f-429f-92f6-4692d6dd417b>|<img src=https://github.com/Doodam/First_Project/assets/121950964/b8205049-9dd2-44d5-a064-1c663b0daac0>|
@@ -52,15 +63,39 @@
 - 홈 화면에 수정된 학생 정보가 띄워집니다.  
 - 수정된 학생 정보를 상세 확인 가능합니다.
 
+<br>
+
 ### 성적 등록
-|<img src=https://github.com/Doodam/First_Project/assets/121950964/da43d748-2326-455b-83d9-20c08573224c>|<img src=https://github.com/Doodam/First_Project/assets/121950964/f1e80967-3e45-4280-8353-a91d490bd6fd>|<img src=https://github.com/Doodam/First_Project/assets/121950964/ea28b0b8-9830-47fc-bb89-b0b47cfd357c>|<img src=https://github.com/Doodam/First_Project/assets/121950964/401e9db0-8e5c-47d2-95b0-97046f025cee>|
-|:---:|:---:|:---:|:---:|
-|성적 기록 화면|성적 등록 1|성적 등록 2|삭제|
+|<img src=https://github.com/Doodam/First_Project/assets/121950964/da43d748-2326-455b-83d9-20c08573224c>|<img src=https://github.com/Doodam/First_Project/assets/121950964/f1e80967-3e45-4280-8353-a91d490bd6fd>|<img src=https://github.com/Doodam/First_Project/assets/121950964/ea28b0b8-9830-47fc-bb89-b0b47cfd357c>|
+|:---:|:---:|:---:|
+|성적 기록 화면|성적 등록 1|성적 등록 2|
+
+|<img src=https://github.com/Doodam/First_Project/assets/121950964/401e9db0-8e5c-47d2-95b0-97046f025cee>|<img src=https://user-images.githubusercontent.com/121950964/267244639-aca520bd-57cf-4d73-9ac7-65ccd9508286.png>|
+|:---:|:---:|
+|삭제|삭제 완료|
+
+- 수정하기 버튼을 클릭 시, 성적 등록도 함께 할 수 있습니다.
+- 학생의 성적을 작성 시, 과목을 선택 후 점수를 입력합니다.
+- 결과 버튼을 클릭 시, 입력된 과목들의 평균을 자동으로 계산해줍니다.
+- 삭제할 학생을 클릭 후, 삭제 버튼을 클릭 하면 등록된 성적을 삭제 할 수 있습니다.  
+
+<br>
 
 ### 검색
 |<img src=https://github.com/Doodam/First_Project/assets/121950964/614e8160-787d-4801-9e20-aaed6173d540>|<img src=https://github.com/Doodam/First_Project/assets/121950964/21667778-7824-4f41-bac0-85cc731ba186>|
 |:---:|:---:|
+|검색 1|검색 2|
 
+- 검색 창으로 학생을 찾을 수 있습니다.
 
+<br>
 
+### 삭제
+<img src=https://github.com/Doodam/First_Project/assets/121950964/e25a1a70-1df1-4056-a495-6ad70dfd9df2 width="400" height="350"/> <br>
+- 홈 화면에서도 학생을 삭제할 수 있습니다.
 
+<br>
+
+### 로그아웃
+<img src=https://github.com/Doodam/First_Project/assets/121950964/90944256-68cc-4f99-a1bc-89f6352e51e0 width="400" height="350"/> <br>
+- 로그아웃 클릭 시, 로그아웃이 되며 로그인 화면으로 이동합니다.
