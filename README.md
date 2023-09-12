@@ -6,16 +6,28 @@
 
 ## 목차
   - [개요](#개요) 
-  - [프로그램 설명](#게임-설명)
+  - [프로그램 설명](#프로그램-설명)
+
 
 ## 개요
 - 프로젝트 이름 : ITWILL 학생관리프로그램
 - 프로젝트 지속기간 : 2022.04.17 - 2023.04.24
 - 개발 엔진 및 언어, DB : Eclipse & JAVA & Oracle
 
+
 ## 프로그램 설명
+### 로그인
 |<img src=https://github.com/Doodam/First_Project/assets/121950964/51ddb8c7-25c9-4e44-b10e-f6b34ca937a8>|<img src=https://github.com/Doodam/First_Project/assets/121950964/34b7f089-4e43-481a-9da8-ff98b3d008df>|<img src=https://github.com/Doodam/First_Project/assets/121950964/4801da9c-4f27-4b66-9a1f-ac759e6b0c11>
 |:---:|:---:|:---:|
 |시작 화면|로그인 실패|로그인 성공|
+
+처음 시작 화면으로 로그인 방식은 간단하게 만들었습니다. <br>
+로그인 실패 시, 모달 창이 띄워지며 로그인 불가. <br>
+로그인 성공 시, 모달 창이 띄워지며 홈으로 창 전환. <br>
+
+### 학생등록
+|<img src=>|<img src=>|<img src=>|
+|:---:|:---:|:---:|
+||||
 
 
