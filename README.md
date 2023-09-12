@@ -2,6 +2,7 @@
 <img src=https://github.com/Doodam/First_Project/assets/121950964/a4afc830-5e47-44ee-8715-bf76dbd19ed8/>
 <h2>[2023] 학생 관리 프로그램 👩‍💻</h2>
 개인프로젝트로, 현재 다니고 있는 학원을 모티브로 했으며 학생들의 개인정보와 시험점수를 관리해주는 프로그램입니다.
+MVC 패턴 및 데이터베이스에서 자주 사용되는 CRUD 데이터 처리 기능을 사용했습니다.
 </div>
 
 ## 목차
@@ -99,3 +100,8 @@
 ### 로그아웃
 <img src=https://github.com/Doodam/First_Project/assets/121950964/90944256-68cc-4f99-a1bc-89f6352e51e0 width="400" height="350"/> <br>
 - 로그아웃 클릭 시, 로그아웃이 되며 로그인 화면으로 이동합니다.
+
+<br>
+
+<img src=https://github.com/Doodam/First_Project/assets/121950964/f8e6ed75-3885-4ee4-863a-525bcb3c2764 width="500" height="350"/> 
+
