@@ -13,4 +13,9 @@
 - 프로젝트 지속기간 : 2022.04.17 - 2023.04.24
 - 개발 엔진 및 언어, DB : Eclipse & JAVA & Oracle
 
+## 프로그램 설명
+|<img src=https://github.com/Doodam/First_Project/assets/121950964/51ddb8c7-25c9-4e44-b10e-f6b34ca937a8>|<img src=https://github.com/Doodam/First_Project/assets/121950964/34b7f089-4e43-481a-9da8-ff98b3d008df>|<img src=https://github.com/Doodam/First_Project/assets/121950964/4801da9c-4f27-4b66-9a1f-ac759e6b0c11>
+|:---:|:---:|:---:|
+|시작 화면|로그인 실패|로그인 성공|
+
 
