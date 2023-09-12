@@ -1,6 +1,6 @@
 <div align="center">
+<img src=https://github.com/Doodam/First_Project/assets/121950964/0a24b88f-6c20-4c64-bd99-5c705d4f982e>
 <h2>[2023] 학생 관리 프로그램 👩‍💻</h2>
-![itwill](https://github.com/Doodam/First_Project/assets/121950964/0a24b88f-6c20-4c64-bd99-5c705d4f982e) <br>
 개인프로젝트로, 현재 다니고 있는 학원을 모티브로 했으며 학생들의 개인정보와 시험점수를 관리해주는 프로그램입니다.
 </div>
 
@@ -11,4 +11,6 @@
 ## 개요
 - 프로젝트 이름 : ITWILL 학생관리프로그램
 - 프로젝트 지속기간 : 2022.04.17 - 2023.04.24
-- 개발 엔진 및 언어, 서버 : Eclipse & JAVA & Oracle
+- 개발 엔진 및 언어, DB : Eclipse & JAVA & Oracle
+
+
